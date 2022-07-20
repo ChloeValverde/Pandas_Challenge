@@ -1,0 +1,2 @@
+In this challenge came to the conclusion that the charter schools have a greater passing rate of 90.432244% versus the district rate of 53.672208.
+Another conclusion that #was gleamed is that while districts have a higher budget, they still have overall lower scores in many aspects.
